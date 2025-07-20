@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>5282c8ea957222107f44a0c69ef7f15e</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>safety-home</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-07-20 08:18:36</sys_created_on>
+        <sys_id>5e82c8ea957222107f44a0c69ef7f15d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Home</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">e8cfa716953222107f44a0c69ef7f18c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e8cfa716953222107f44a0c69ef7f18c</sys_scope>
+        <sys_update_name>sys_ux_page_registry_5e82c8ea957222107f44a0c69ef7f15d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-07-20 08:18:36</sys_updated_on>
+        <title>Safety Home</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety">e8cfa716953222107f44a0c69ef7f18c</application>
+        <file_path/>
+        <instance_id>2727530e47322e5045bb473c326d43a1</instance_id>
+        <instance_name>nowlearning-nlinst03059074-8nbqv-0001</instance_name>
+        <name>sys_ux_page_registry_5e82c8ea957222107f44a0c69ef7f15d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>5282c8ea957222107f44a0c69ef7f15e</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>safety-home</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2025-07-20 08:18:36</sys_created_on><sys_id>5e82c8ea957222107f44a0c69ef7f15d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety Home</sys_name><sys_package display_value="Safety" source="x_snc_safety">e8cfa716953222107f44a0c69ef7f18c</sys_package><sys_policy/><sys_scope display_value="Safety">e8cfa716953222107f44a0c69ef7f18c</sys_scope><sys_update_name>sys_ux_page_registry_5e82c8ea957222107f44a0c69ef7f15d</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2025-07-20 08:18:36</sys_updated_on><title>Safety Home</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-717876908</payload_hash>
+        <record_name>Safety Home</record_name>
+        <reverted_from/>
+        <source>fbc2cc31831112107f4469f60cda1e66</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-10-17 14:38:57</sys_created_on>
+        <sys_id>4de28cea957222107f44a0c69ef7f179</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1929aeadfe80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>0de28ceac072221016c2cde8967c6979</update_guid>
+        <update_guid_history>0de28ceac072221016c2cde8967c6979:-717876908</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-20 08:20:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>6616781d12d649398ef40f5833e64989</sys_id>
+        <sys_metadata>5e82c8ea957222107f44a0c69ef7f15d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Home</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">e8cfa716953222107f44a0c69ef7f18c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e8cfa716953222107f44a0c69ef7f18c</sys_scope>
+        <sys_scope_delete display_value="">058f3041f96d48bc8035d003db3565b1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_5e82c8ea957222107f44a0c69ef7f15d</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_5e82c8ea957222107f44a0c69ef7f15d">4de28cea957222107f44a0c69ef7f179</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-20 08:20:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

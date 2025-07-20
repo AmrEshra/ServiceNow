@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,short_description,number,state</field_list>
+        <name>My request - incident predicate</name>
+        <order/>
+        <predicate_bundle display_value="My requests - incident bundle">0ff2082e0f722210273580da3e611f7b</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-07-20 08:20:32</sys_created_on>
+        <sys_id>07f2082e44722210fe4ab713ed850777</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My request - incident predicate</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">e8cfa716953222107f44a0c69ef7f18c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e8cfa716953222107f44a0c69ef7f18c</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_07f2082e44722210fe4ab713ed850777</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-07-20 08:20:32</sys_updated_on>
+        <table>incident</table>
+        <ux_template display_value="Item produced template">8bf2082ed97222101189628d37ed477a</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

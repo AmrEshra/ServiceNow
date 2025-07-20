@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>3_custom_portal_approval_x_snc_safety</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-07-20 08:20:33</sys_created_on>
+        <sys_id>8bf2082e6c7222101e4bc15a9ef1d498</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3_custom_portal_approval_x_snc_safety</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">e8cfa716953222107f44a0c69ef7f18c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">e8cfa716953222107f44a0c69ef7f18c</sys_scope>
+        <sys_update_name>sys_ui_view_8bf2082e6c7222101e4bc15a9ef1d498</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-07-20 08:20:33</sys_updated_on>
+        <title>3_custom_portal_approval_x_snc_safety</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
